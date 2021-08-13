@@ -1,0 +1,15 @@
+import { gql } from 'apollo-boost';
+
+const {{pascalCase name}} = gql`
+  query {{name}} {
+    {{name}}() 
+  }
+`;
+
+const {{pascalCase name}}Detail = gql`
+  query {{name}}Detail {
+    {{name}}Detail() 
+  }
+`;
+
+export { {{pascalCase name}}, {{pascalCase name}}Detail };
