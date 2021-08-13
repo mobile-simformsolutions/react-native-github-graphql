@@ -39,4 +39,4 @@ A react-native graphql sample project to fetch the top forked repositories of th
 
 - **Make sure to use the valid Github Access Token  before you run this project**
     1. Open app/config/ApolloConfig file
-    2. Update authorization as 'Bearer <Github Access Token Here>'
+    2. Update authorization as 'Bearer [Github Access Token Here]'
