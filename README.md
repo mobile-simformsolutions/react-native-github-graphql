@@ -3,6 +3,9 @@
 ##  Project Desctiption
 A react-native graphql sample project to fetch the top forked repositories of the user.
 
+----------------------------------------
+<img src="/app/assets/images/sample.png" width="400">
+
 ## Prerequisites
 
 **iOS** : XCode(11.2) onwards
@@ -40,3 +43,5 @@ A react-native graphql sample project to fetch the top forked repositories of th
 - **Make sure to use the valid Github Access Token  before you run this project**
     1. Open app/config/ApolloConfig file
     2. Update authorization as 'Bearer [Github Access Token Here]'
+
+-----------------------------------------------------------------------------------------------------
